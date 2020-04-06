@@ -50,11 +50,11 @@ export const StyledButton = styled(TouchableOpacity)`
 `;
 
 export const ButtonText = styled.Text`
-  font-size: 20px;
+  font-size: 30px;
 `;
 
 export const ResultText = styled.Text.attrs({
   numberOfLines: 1,
 })`
-  font-size: 40px;
+  font-size: 60px;
 `;
