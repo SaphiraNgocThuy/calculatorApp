@@ -1,10 +1,4 @@
-import {
-  GET_RESULT,
-  ADD_NUMBER,
-  ADD_OPERATOR,
-  CLEAR,
-  ADD_DOT,
-} from './constants';
+import { GET_RESULT, ADD_NUM, ADD_OPERATOR, CLEAR, ADD_DOT } from './constants';
 
 export const initialState = {
   calculation: '',
@@ -19,7 +13,7 @@ const reducer = (state = initialState, action) => {
   const { value, operator, dotted, calculation, clickedEqual } = newState;
 
   switch (action.type) {
-    case ADD_NUMBER:
+    case ADD_NUM:
       if (!clickedEqual) {
         if (!operator && (!value || !calculation)) {
           newState.value = action.input;

@@ -1,14 +1,8 @@
-import {
-  ADD_NUMBER,
-  ADD_OPERATOR,
-  ADD_DOT,
-  CLEAR,
-  GET_RESULT,
-} from './constants';
+import { ADD_NUM, ADD_OPERATOR, ADD_DOT, CLEAR, GET_RESULT } from './constants';
 
 export const addNumber = (dispatch, title) => {
   dispatch({
-    type: ADD_NUMBER,
+    type: ADD_NUM,
     input: title,
   });
 };
