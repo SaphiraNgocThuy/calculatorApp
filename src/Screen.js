@@ -37,7 +37,6 @@ const Screen = () => {
         <LeftSideView>{renderLeftSideButtons}</LeftSideView>
       </ButtonsView>
       <ResultView>
-        <ResultText>{calculation}</ResultText>
         <ResultText>{value}</ResultText>
       </ResultView>
     </MainView>
