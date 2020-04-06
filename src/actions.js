@@ -14,7 +14,7 @@ export const addOperator = (dispatch, title) => {
   });
 };
 
-export const addDot = (dispatch, title) => {
+export const addDot = (dispatch) => {
   dispatch({
     type: ADD_DOT,
   });

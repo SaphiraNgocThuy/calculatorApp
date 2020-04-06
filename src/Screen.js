@@ -17,7 +17,6 @@ const rightSideButtonsList = ['C', 0, '.', ...[...Array(10).keys()].slice(1)]
 
 const Screen = () => {
   const value = useSelector((state) => state.value);
-  const calculation = useSelector((state) => state.calculation);
 
   const renderButtons = useCallback((isLeftSide) => {
     const renderList = isLeftSide ? leftSideButtonsList : rightSideButtonsList;
