@@ -77,7 +77,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -121,7 +121,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -165,7 +165,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -209,7 +209,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -253,7 +253,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -297,7 +297,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -341,7 +341,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -385,7 +385,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -429,7 +429,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -473,7 +473,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -517,7 +517,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -561,7 +561,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -619,7 +619,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -663,7 +663,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -707,7 +707,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -751,7 +751,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -795,7 +795,7 @@ exports[`renders correctly 1`] = `
           style={
             Array [
               Object {
-                "fontSize": 20,
+                "fontSize": 30,
               },
             ]
           }
@@ -823,7 +823,7 @@ exports[`renders correctly 1`] = `
       style={
         Array [
           Object {
-            "fontSize": 40,
+            "fontSize": 60,
           },
         ]
       }

@@ -37,7 +37,7 @@ exports[`actions renders correctly 1`] = `
     style={
       Array [
         Object {
-          "fontSize": 20,
+          "fontSize": 30,
         },
       ]
     }

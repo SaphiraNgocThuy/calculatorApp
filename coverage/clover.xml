@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1586142513346" clover="3.2.0">
-  <project timestamp="1586142513352" name="All files">
+<coverage generated="1586145222398" clover="3.2.0">
+  <project timestamp="1586145222398" name="All files">
     <metrics statements="51" coveredstatements="42" conditionals="12" coveredconditionals="4" methods="14" coveredmethods="12" elements="77" coveredelements="58" complexity="0" loc="51" ncloc="51" packages="1" files="5" classes="5"/>
     <file name="Button.js" path="/Users/Project/Study/calculator-app/src/Button.js">
       <metrics statements="14" coveredstatements="5" conditionals="8" coveredconditionals="0" methods="2" coveredmethods="1"/>
